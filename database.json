@@ -1,0 +1,22 @@
+{
+  "watches": [
+    {
+      "name": "Agahan",
+      "brand": "Gucci",
+      "price": 9999999,
+      "year": "2022-07-21",
+      "photo": "https://object.pscloud.io/cms/cms/Photo/img_0_911_602_0_1.jpg",
+      "country": "switzerland",
+      "id": 1
+    },
+    {
+      "name": "Agahan",
+      "brand": "ROLL",
+      "price": 2499,
+      "year": "2022-07-26",
+      "photo": "https://object.pscloud.io/cms/cms/Photo/img_0_912_118_0_1.jpg",
+      "country": "italy",
+      "id": 2
+    }
+  ]
+}
